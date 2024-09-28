@@ -28,6 +28,6 @@ class PreprocesarTexto():
 # reto = PreprocesarTexto(date)
 # print(reto.frecuencias_todo())
 
-
+#--
 analized = PreprocesarTexto(date)
 analized.freq_all
